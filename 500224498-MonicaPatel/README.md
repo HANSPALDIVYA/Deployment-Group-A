@@ -1,4 +1,5 @@
 ### Covid - 19 X-ray Prediction
+### CNN Model to predict if a person has Covid-19 or other infections or no lung infection from the lung xrays
 
 [Frontend](https://covid-x-ray-predictor.streamlit.app/)
 
