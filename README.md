@@ -6,7 +6,7 @@ Reetika | 500225006 | Model 4
 
 Divya Hanspal | 500225305 | Model 3
 
-Jonathan Fred Baraganza | 500223773 | Model 1
+Jonathan Fred Braganza | 500223773 | Model 1
 
 Dhruv Patel | 500223343 | Model 2
 
