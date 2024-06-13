@@ -1,0 +1,6 @@
+flask
+dill
+requests
+scikit-learn
+streamlit
+
